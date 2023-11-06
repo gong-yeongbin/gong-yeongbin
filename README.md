@@ -7,9 +7,11 @@
     <div>
         <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> 
         <img src="https://img.shields.io/badge/nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"> 
+        <br>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"> 
         <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"> 
+        <br>
         <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
     </div>
 </div> 
