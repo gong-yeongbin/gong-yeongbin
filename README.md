@@ -14,14 +14,6 @@
         <br>
         <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
     </div>
-    <div>
-      <img
-           align="left"
-           src="https://github-readme-stats.vercel.app/api?username=HC-kang&show_icons=true&theme=dark" 
-           height="150px"/>
-      <img 
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=HC-kang&langs_count=4&layout=compact&bg_color=151515&hide=jupyter%20notebook,c%2B%2B,C,html&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats" height="150px"/>
-    </div>
 </div> 
 <!--
 **gong-yeongbin/gong-yeongbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
