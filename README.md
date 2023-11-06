@@ -4,17 +4,11 @@
 <div align="left">
 <br>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
+        <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
-    <br>
 </div> 
 <!--
 **gong-yeongbin/gong-yeongbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
