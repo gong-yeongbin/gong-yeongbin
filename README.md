@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> 
     <img src="https://img.shields.io/badge/nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/postgreslq-4169E1?style=flat-square&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/postgreslq-4169E1?style=flat-square&logo=postgreslq&logoColor=white">
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"> 
     <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"> 
-    <img src="https://img.shields.io/badge/valkey-F74843?style=flat-square&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/valkey-F74843?style=flat-square&logo=valkey&logoColor=white">
     <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
 </div>
 <h4>👩‍💻 My Github Stats 👩‍💻</h4>
